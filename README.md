@@ -19,5 +19,13 @@ KPI:
 14.	Numbers of orders in each year and the most revenue 
 
 
+<img width="733" alt="image" src="https://github.com/aliabintsaleh/data-analyst-Marketing-project/assets/159874711/d75a4a35-e9db-496f-8c78-9f76116774df">
+
+<img width="648" alt="image" src="https://github.com/aliabintsaleh/data-analyst-Marketing-project/assets/159874711/a0bfe016-27cb-4d63-80d4-2c54e4845f12">
+
+
+<img width="645" alt="image" src="https://github.com/aliabintsaleh/data-analyst-Marketing-project/assets/159874711/5e5933a9-29c5-4df4-9f46-17c69f273542">
+
+
 
 
