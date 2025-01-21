@@ -1,7 +1,7 @@
-9# data-analyst-Marketing-project
+ data-analyst-Marketing-project
 Retail dataset of global superstore for 4 years
 the purpose of this project is to analyse dataset taken from kaggle(A subsidiary of Google, it is an online community for data scientists and machine learning engineers)
-Explore data in order to perform marketing analysis of the data and provide meaningful insight Understanding the sales trend, analyzing the frequency of selling products in different regions and cities, and determining the best selling times in order to provide an accurate marketing method and develop the sales process
+Explore data using #SQL in order to perform marketing analysis of the data and provide meaningful insight Understanding the sales trend, analyzing the frequency of selling products in different regions and cities, and determining the best selling times in order to provide an accurate marketing method and develop the sales process
 KPI:
 1.	How many distinct product lines are there in the dataset?
 2.	What is the most selling product?
